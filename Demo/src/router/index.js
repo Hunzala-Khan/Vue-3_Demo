@@ -9,6 +9,7 @@ import ComputedProperties from '../components/Computed-Properties.vue'
 import LifecycleHook from '../components/Lifecycle-Hook.vue'
 import GlobalStore from '../components/Global-Store.vue'
 import APIIntegration from '../components/API-Integration.vue'
+import TestDemo from '../components/Test-Demo.vue'
 
 const routes = [
   { path: '/', redirect: '/reactives' },
@@ -21,6 +22,7 @@ const routes = [
   { path: '/lifecycle-hook', component: LifecycleHook },
   { path: '/global-store', component: GlobalStore },
   { path: '/api-integration', component: APIIntegration },
+  { path: '/Test-Demo' , component: TestDemo }
 ]
 
 const router = createRouter({

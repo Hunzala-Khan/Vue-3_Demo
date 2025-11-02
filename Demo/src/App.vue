@@ -13,6 +13,7 @@
       <router-link to="/lifecycle-hook" class="btn">Lifecycle-Hook</router-link>
       <router-link to="/global-store" class="btn">Global Store</router-link>
       <router-link to="/api-integration" class="btn">API Integration</router-link>
+      <router-link to="/Test-Demo" class="btn">Test-Demo</router-link>
     </div>
 
     <!-- Center Content Area -->
