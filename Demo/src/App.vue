@@ -13,7 +13,8 @@
       <router-link to="/lifecycle-hook" class="btn">Lifecycle-Hook</router-link>
       <router-link to="/global-store" class="btn">Global Store</router-link>
       <router-link to="/api-integration" class="btn">API Integration</router-link>
-      <router-link to="/Test-Demo" class="btn">Test-Demo</router-link>
+      <router-link to="/generator-function" class="btn">Generator-Function</router-link>
+      <router-link to="/test-demo" class="btn">Test-Demo</router-link>
     </div>
 
     <!-- Center Content Area -->
@@ -60,7 +61,7 @@ export default {
 .main-container {
   display: flex;
   height: 100vh;
-  background-color: #000;
+  background-color: #000000;
   color: white;
 }
 
